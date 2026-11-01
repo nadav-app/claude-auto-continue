@@ -1,0 +1,1 @@
+{ "name": "auto-continue", "version": "0.1.0", "description": "When a usage limit stops a turn mid-task, sends 'המשך' as soon as the limit resets.", "author": { "name": "nadav-app" }, "license": "MIT" }

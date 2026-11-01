@@ -1,0 +1,5 @@
+{
+  "name": "claude-auto-continue",
+  "owner": { "name": "nadav-app" },
+  "plugins": [{ "name": "auto-continue", "source": "./" }]
+}
